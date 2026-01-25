@@ -10,7 +10,5 @@ public class peopel {
 		this.age =age;
 		this.averageGrade=averageGrade;
 	}
-	public void	eat() {
-		System.out.println(name+"eat");
-	}	
+
 }
