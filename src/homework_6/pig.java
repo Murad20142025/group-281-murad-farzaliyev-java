@@ -1,7 +1,7 @@
 package homework_6;
 
 public class pig {
-	public class pig extends animal{
+	public class pig extends Animal{
 		boolean isAngry;
 		
 		public pig (String name ,int age,String breed ) {

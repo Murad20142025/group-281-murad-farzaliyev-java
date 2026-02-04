@@ -1,7 +1,7 @@
 package homework_6;
 
 public class dart {
-	public class dart extends animal{
+	public class dart extends Animal{
 		boolean isAngry;
 		
 		public dart (String name ,int age,String breed ) {
