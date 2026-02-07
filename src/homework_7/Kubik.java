@@ -7,7 +7,7 @@ public static void main (String[]args) {
 public	int Kub() {
 	
 	
-	return(int)(Math.random()*6)+1;
+	return(int)(Math.random()*6);
 	
 	
 	
